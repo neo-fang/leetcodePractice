@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 本工程为leetcode编程练习的代码,200题左右
-=======
-本工程为leetcode编程练习的代码，分类练习
->>>>>>> branch 'master' of https://github.com/neo-fang/leetcodePractice.git
-修改
