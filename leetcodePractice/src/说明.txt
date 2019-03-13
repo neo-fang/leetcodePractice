@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 本工程为leetcode编程练习的代码，冲突产生
+=======
+本工程为leetcode编程练习的代码，冲突测试
+>>>>>>> branch 'master' of https://github.com/neo-fang/leetcodePractice.git
